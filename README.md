@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinicius-Locomotiva
+- 👋 Hi, I’m @Vinicius
 - 👀 I’m interested in Web and Mobile aplication
 - 🌱 I’m currently learning JavaScript, React and Basic Angular.
 - 💞️ I’m looking to collaborate on Locomotiva
